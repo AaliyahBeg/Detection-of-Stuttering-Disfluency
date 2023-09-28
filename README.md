@@ -2,7 +2,7 @@
  Summer Research Fellow at IIIT Hyderabad, Hyderabad | IIITH | Jun 2023- Jul 2023 Privileged to have got selected as a research fellow under Summer Research Fellow Program, a government-funded program to work under Dr. Anil Kumar Vuppula, Speech Processing Lab, LTRC, KCIS, IIITH.
 
  ### Getting insights as I moved along the 8 weeks internship path 
- Get an overview _[Click here](https://docs.google.com/document/d/1pcC_a9tEmrZ81nb9qd3NMOC4TbGxG_bo1I4U12sxMvE/edit?usp=sharing)._
+ Get an overview _[Click here]()._
  - Learnt the Speech processing basics
  - Analyzed the various libraries and tools for signal-processing tasks
  - Drew deep insights from the available datasets
@@ -12,7 +12,7 @@
  ### Continued to work on the Problem Statement as a part of the minor project in my 4th year of Bachelor 
  (in the pipeline...) <br />
  <br />
- Get an overview _[Click here](https://docs.google.com/presentation/d/1JYFqIHANhQKsrWaCzVj99tPfM5UWZV6yJpegx3ZAMNk/edit?usp=sharing)._
+ Get an overview _[Click here]()._
  - Working over the extracted spectrograms
  - Applied Deep Learning techniques
  - Tested on real-time data
